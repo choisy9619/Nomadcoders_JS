@@ -1,1 +1,2 @@
-# <h5> Vanilla_coding_study_log - Nomadcoders_JS1</h5>
+### Vanilla_coding_study_log - 노마드코더 ✍️
+HTML & CSS & JAVASCRIPT 독학
